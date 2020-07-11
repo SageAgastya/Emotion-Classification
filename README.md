@@ -16,7 +16,7 @@ We can add concept net embeddings to enrich the concepts in our BERT embeddings.
 NRC-VAD scores can be used to generate scores of the concepts based on the category to which it belongs to : VALENCE, AROUSAL, DOMINANT
 
 
-# PAPER I referred:
+# Papers I referred:
 1. DialogueRNN
 2. Knowledge Enriched Transformers (I adopted this one and innovated it by few amount)
 
